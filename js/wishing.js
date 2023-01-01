@@ -82,7 +82,7 @@
 
     let pragati_observer_options = {
         rootMargin: "0px 0px 0px 0px",
-        threshold: "0.5" 
+        threshold: "0.6" 
     }
 
     let pragati_observer = new IntersectionObserver((entries)=> {
